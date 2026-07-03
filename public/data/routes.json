@@ -1,0 +1,527 @@
+[
+  {
+    "id": "rm-route-01",
+    "slug": "RM路线1",
+    "title": "RM路线1",
+    "description": "RM路线1",
+    "targetUser": "目标1",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-02",
+    "slug": "RM路线2",
+    "title": "RM路线2",
+    "description": "RM路线2",
+    "targetUser": "目标2",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-03",
+    "slug": "RM路线3",
+    "title": "RM路线3",
+    "description": "RM路线3",
+    "targetUser": "目标3",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-04",
+    "slug": "RM路线4",
+    "title": "RM路线4",
+    "description": "RM路线4",
+    "targetUser": "目标4",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-05",
+    "slug": "RM路线5",
+    "title": "RM路线5",
+    "description": "RM路线5",
+    "targetUser": "目标5",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-06",
+    "slug": "RM路线6",
+    "title": "RM路线6",
+    "description": "RM路线6",
+    "targetUser": "目标6",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-07",
+    "slug": "RM路线7",
+    "title": "RM路线7",
+    "description": "RM路线7",
+    "targetUser": "目标7",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-08",
+    "slug": "RM路线8",
+    "title": "RM路线8",
+    "description": "RM路线8",
+    "targetUser": "目标8",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-09",
+    "slug": "RM路线9",
+    "title": "RM路线9",
+    "description": "RM路线9",
+    "targetUser": "目标9",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-10",
+    "slug": "RM路线10",
+    "title": "RM路线10",
+    "description": "RM路线10",
+    "targetUser": "目标10",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-11",
+    "slug": "RM路线11",
+    "title": "RM路线11",
+    "description": "RM路线11",
+    "targetUser": "目标11",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-12",
+    "slug": "RM路线12",
+    "title": "RM路线12",
+    "description": "RM路线12",
+    "targetUser": "目标12",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-13",
+    "slug": "RM路线13",
+    "title": "RM路线13",
+    "description": "RM路线13",
+    "targetUser": "目标13",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-14",
+    "slug": "RM路线14",
+    "title": "RM路线14",
+    "description": "RM路线14",
+    "targetUser": "目标14",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-15",
+    "slug": "RM路线15",
+    "title": "RM路线15",
+    "description": "RM路线15",
+    "targetUser": "目标15",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-16",
+    "slug": "RM路线16",
+    "title": "RM路线16",
+    "description": "RM路线16",
+    "targetUser": "目标16",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-17",
+    "slug": "RM路线17",
+    "title": "RM路线17",
+    "description": "RM路线17",
+    "targetUser": "目标17",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-18",
+    "slug": "RM路线18",
+    "title": "RM路线18",
+    "description": "RM路线18",
+    "targetUser": "目标18",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-19",
+    "slug": "RM路线19",
+    "title": "RM路线19",
+    "description": "RM路线19",
+    "targetUser": "目标19",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-20",
+    "slug": "RM路线20",
+    "title": "RM路线20",
+    "description": "RM路线20",
+    "targetUser": "目标20",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-21",
+    "slug": "RM路线21",
+    "title": "RM路线21",
+    "description": "RM路线21",
+    "targetUser": "目标21",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-22",
+    "slug": "RM路线22",
+    "title": "RM路线22",
+    "description": "RM路线22",
+    "targetUser": "目标22",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-23",
+    "slug": "RM路线23",
+    "title": "RM路线23",
+    "description": "RM路线23",
+    "targetUser": "目标23",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-24",
+    "slug": "RM路线24",
+    "title": "RM路线24",
+    "description": "RM路线24",
+    "targetUser": "目标24",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-25",
+    "slug": "RM路线25",
+    "title": "RM路线25",
+    "description": "RM路线25",
+    "targetUser": "目标25",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-26",
+    "slug": "RM路线26",
+    "title": "RM路线26",
+    "description": "RM路线26",
+    "targetUser": "目标26",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-27",
+    "slug": "RM路线27",
+    "title": "RM路线27",
+    "description": "RM路线27",
+    "targetUser": "目标27",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-28",
+    "slug": "RM路线28",
+    "title": "RM路线28",
+    "description": "RM路线28",
+    "targetUser": "目标28",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-29",
+    "slug": "RM路线29",
+    "title": "RM路线29",
+    "description": "RM路线29",
+    "targetUser": "目标29",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-30",
+    "slug": "RM路线30",
+    "title": "RM路线30",
+    "description": "RM路线30",
+    "targetUser": "目标30",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-31",
+    "slug": "RM路线31",
+    "title": "RM路线31",
+    "description": "RM路线31",
+    "targetUser": "目标31",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-32",
+    "slug": "RM路线32",
+    "title": "RM路线32",
+    "description": "RM路线32",
+    "targetUser": "目标32",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-33",
+    "slug": "RM路线33",
+    "title": "RM路线33",
+    "description": "RM路线33",
+    "targetUser": "目标33",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-34",
+    "slug": "RM路线34",
+    "title": "RM路线34",
+    "description": "RM路线34",
+    "targetUser": "目标34",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "rm-route-35",
+    "slug": "RM路线35",
+    "title": "RM路线35",
+    "description": "RM路线35",
+    "targetUser": "目标35",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  }
+]

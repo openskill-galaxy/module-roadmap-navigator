@@ -1,0 +1,41 @@
+{
+  "id": "mod-roadmap-navigator",
+  "slug": "module-roadmap-navigator",
+  "title": "学习路线规划与能力地图",
+  "subtitle": "面向全平台学习者",
+  "description": "面向全平台学习者的学习路线能力地图知识树模块依赖岗位方向阶段目标项目作品能力评估与个性化学习路径设计训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "学习路线",
+    "能力地图",
+    "技能树",
+    "路线规划",
+    "岗位方向",
+    "模块导航",
+    "学习路径",
+    "能力评估"
+  ],
+  "estimatedHours": 140,
+  "difficulty": "beginner",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "🧰",
+  "repoUrl": "https://github.com/openskill-galaxy/module-roadmap-navigator",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3500,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 174
+  }
+}
