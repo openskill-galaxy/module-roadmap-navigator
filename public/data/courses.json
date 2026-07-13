@@ -34,7 +34,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-001",
+      "rm-lesson-002",
+      "rm-lesson-003",
+      "rm-lesson-004",
+      "rm-lesson-005",
+      "rm-lesson-006",
+      "rm-lesson-007",
+      "rm-lesson-008",
+      "rm-lesson-009",
+      "rm-lesson-010",
+      "rm-lesson-011",
+      "rm-lesson-012",
+      "rm-lesson-013"
+    ],
+    "summary": "路线价值、能力地图、学习方法。"
   },
   {
     "id": "rm-course-02",
@@ -71,7 +87,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-014",
+      "rm-lesson-015",
+      "rm-lesson-016",
+      "rm-lesson-017",
+      "rm-lesson-018",
+      "rm-lesson-019",
+      "rm-lesson-020",
+      "rm-lesson-021",
+      "rm-lesson-022",
+      "rm-lesson-023",
+      "rm-lesson-024",
+      "rm-lesson-025",
+      "rm-lesson-026"
+    ],
+    "summary": "技能树构建、知识体系、图谱工具。"
   },
   {
     "id": "rm-course-03",
@@ -108,7 +140,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-027",
+      "rm-lesson-028",
+      "rm-lesson-029",
+      "rm-lesson-030",
+      "rm-lesson-031",
+      "rm-lesson-032",
+      "rm-lesson-033",
+      "rm-lesson-034",
+      "rm-lesson-035",
+      "rm-lesson-036",
+      "rm-lesson-037",
+      "rm-lesson-038",
+      "rm-lesson-039"
+    ],
+    "summary": "零基础路线、语言选择、实践路径。"
   },
   {
     "id": "rm-course-04",
@@ -145,7 +193,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-040",
+      "rm-lesson-041",
+      "rm-lesson-042",
+      "rm-lesson-043",
+      "rm-lesson-044",
+      "rm-lesson-045",
+      "rm-lesson-046",
+      "rm-lesson-047",
+      "rm-lesson-048",
+      "rm-lesson-049",
+      "rm-lesson-050",
+      "rm-lesson-051",
+      "rm-lesson-052"
+    ],
+    "summary": "HTML/CSS/JS到框架、全链路。"
   },
   {
     "id": "rm-course-05",
@@ -182,7 +246,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-053",
+      "rm-lesson-054",
+      "rm-lesson-055",
+      "rm-lesson-056",
+      "rm-lesson-057",
+      "rm-lesson-058",
+      "rm-lesson-059",
+      "rm-lesson-060",
+      "rm-lesson-061",
+      "rm-lesson-062",
+      "rm-lesson-063",
+      "rm-lesson-064",
+      "rm-lesson-065"
+    ],
+    "summary": "Java/Go/Python后端技术栈路线。"
   },
   {
     "id": "rm-course-06",
@@ -219,7 +299,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-066",
+      "rm-lesson-067",
+      "rm-lesson-068",
+      "rm-lesson-069",
+      "rm-lesson-070",
+      "rm-lesson-071",
+      "rm-lesson-072",
+      "rm-lesson-073",
+      "rm-lesson-074",
+      "rm-lesson-075",
+      "rm-lesson-076",
+      "rm-lesson-077",
+      "rm-lesson-078"
+    ],
+    "summary": "数据分析/BI/数据工程/大数据路线。"
   },
   {
     "id": "rm-course-07",
@@ -256,7 +352,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-079",
+      "rm-lesson-080",
+      "rm-lesson-081",
+      "rm-lesson-082",
+      "rm-lesson-083",
+      "rm-lesson-084",
+      "rm-lesson-085",
+      "rm-lesson-086",
+      "rm-lesson-087",
+      "rm-lesson-088",
+      "rm-lesson-089",
+      "rm-lesson-090",
+      "rm-lesson-091"
+    ],
+    "summary": "ML/DL/LLM/AI应用开发路线。"
   },
   {
     "id": "rm-course-08",
@@ -293,7 +405,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-092",
+      "rm-lesson-093",
+      "rm-lesson-094",
+      "rm-lesson-095",
+      "rm-lesson-096",
+      "rm-lesson-097",
+      "rm-lesson-098",
+      "rm-lesson-099",
+      "rm-lesson-100",
+      "rm-lesson-101",
+      "rm-lesson-102",
+      "rm-lesson-103",
+      "rm-lesson-104"
+    ],
+    "summary": "OS/网络/数据库/数据结构/组成路线。"
   },
   {
     "id": "rm-course-09",
@@ -330,7 +458,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-105",
+      "rm-lesson-106",
+      "rm-lesson-107",
+      "rm-lesson-108",
+      "rm-lesson-109",
+      "rm-lesson-110",
+      "rm-lesson-111",
+      "rm-lesson-112",
+      "rm-lesson-113",
+      "rm-lesson-114",
+      "rm-lesson-115",
+      "rm-lesson-116",
+      "rm-lesson-117"
+    ],
+    "summary": "Docker/K8s/CI/CD/云服务路线。"
   },
   {
     "id": "rm-course-10",
@@ -367,7 +511,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-118",
+      "rm-lesson-119",
+      "rm-lesson-120",
+      "rm-lesson-121",
+      "rm-lesson-122",
+      "rm-lesson-123",
+      "rm-lesson-124",
+      "rm-lesson-125",
+      "rm-lesson-126",
+      "rm-lesson-127",
+      "rm-lesson-128",
+      "rm-lesson-129",
+      "rm-lesson-130"
+    ],
+    "summary": "安全/嵌入式/系统编程路线。"
   },
   {
     "id": "rm-course-11",
@@ -404,7 +564,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-131",
+      "rm-lesson-132",
+      "rm-lesson-133",
+      "rm-lesson-134",
+      "rm-lesson-135",
+      "rm-lesson-136",
+      "rm-lesson-137",
+      "rm-lesson-138",
+      "rm-lesson-139",
+      "rm-lesson-140",
+      "rm-lesson-141",
+      "rm-lesson-142",
+      "rm-lesson-143"
+    ],
+    "summary": "简历/面试/作品集/求职节奏路线。"
   },
   {
     "id": "rm-course-12",
@@ -441,7 +617,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-144",
+      "rm-lesson-145",
+      "rm-lesson-146",
+      "rm-lesson-147",
+      "rm-lesson-148",
+      "rm-lesson-149",
+      "rm-lesson-150",
+      "rm-lesson-151",
+      "rm-lesson-152",
+      "rm-lesson-153",
+      "rm-lesson-154",
+      "rm-lesson-155",
+      "rm-lesson-156"
+    ],
+    "summary": "模块依赖、前置知识、学习序列。"
   },
   {
     "id": "rm-course-13",
@@ -478,7 +670,23 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-157",
+      "rm-lesson-158",
+      "rm-lesson-159",
+      "rm-lesson-160",
+      "rm-lesson-161",
+      "rm-lesson-162",
+      "rm-lesson-163",
+      "rm-lesson-164",
+      "rm-lesson-165",
+      "rm-lesson-166",
+      "rm-lesson-167",
+      "rm-lesson-168",
+      "rm-lesson-169"
+    ],
+    "summary": "验收标准、能力测评、路线修正。"
   },
   {
     "id": "rm-course-14",
@@ -515,6 +723,22 @@
       "会选择模块",
       "能评估进度"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "rm-lesson-170",
+      "rm-lesson-171",
+      "rm-lesson-172",
+      "rm-lesson-173",
+      "rm-lesson-174",
+      "rm-lesson-175",
+      "rm-lesson-176",
+      "rm-lesson-177",
+      "rm-lesson-178",
+      "rm-lesson-179",
+      "rm-lesson-180",
+      "rm-lesson-181",
+      "rm-lesson-182"
+    ],
+    "summary": "60模块综合路线、个性化路径。"
   }
 ]
