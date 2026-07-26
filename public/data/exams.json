@@ -1,31 +1,63 @@
 [
   {
     "id": "mod-roadmap-navigator-exam-1",
-    "slug": "final-exam",
-    "title": "学习路线规划与能力地图 核心期末综合自测",
-    "summary": "全面检验您对 学习路线规划与能力地图 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "学习路线规划 基础入门测评",
+    "summary": "考查学习路线图的正确用法、技能树依赖、里程碑设定与 T 型人才等基础概念，适合入门阶段摸底自测。",
     "difficulty": "easy",
     "questionIds": [
       "mod-roadmap-navigator-q-1",
       "mod-roadmap-navigator-q-2",
-      "mod-roadmap-navigator-q-3",
-      "mod-roadmap-navigator-q-4",
-      "mod-roadmap-navigator-q-5",
-      "mod-roadmap-navigator-q-6"
+      "mod-roadmap-navigator-q-6",
+      "mod-roadmap-navigator-q-11",
+      "mod-roadmap-navigator-q-13",
+      "mod-roadmap-navigator-q-14",
+      "mod-roadmap-navigator-q-19",
+      "mod-roadmap-navigator-q-20"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-roadmap-navigator-exam-2",
-    "slug": "basic-exam",
-    "title": "学习路线规划与能力地图 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "学习路线规划 进阶强化测评",
+    "summary": "聚焦能力地图与差距分析、JD 逆向分析、最近发展区、德雷福斯模型等进阶方法，检验路线设计的实操能力。",
+    "difficulty": "medium",
+    "questionIds": [
+      "mod-roadmap-navigator-q-3",
+      "mod-roadmap-navigator-q-4",
+      "mod-roadmap-navigator-q-5",
+      "mod-roadmap-navigator-q-7",
+      "mod-roadmap-navigator-q-8",
+      "mod-roadmap-navigator-q-9",
+      "mod-roadmap-navigator-q-10",
+      "mod-roadmap-navigator-q-16",
+      "mod-roadmap-navigator-q-18",
+      "mod-roadmap-navigator-q-21"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-roadmap-navigator-exam-3",
+    "slug": "comprehensive-exam",
+    "title": "学习路线规划 综合模拟考试",
+    "summary": "覆盖路线设计要素、依赖建模、能力评估与职业方向全部主题的综合模拟卷，含多选、判断与简答题。",
+    "difficulty": "hard",
     "questionIds": [
       "mod-roadmap-navigator-q-1",
-      "mod-roadmap-navigator-q-2",
-      "mod-roadmap-navigator-q-3"
+      "mod-roadmap-navigator-q-5",
+      "mod-roadmap-navigator-q-8",
+      "mod-roadmap-navigator-q-9",
+      "mod-roadmap-navigator-q-12",
+      "mod-roadmap-navigator-q-15",
+      "mod-roadmap-navigator-q-16",
+      "mod-roadmap-navigator-q-17",
+      "mod-roadmap-navigator-q-18",
+      "mod-roadmap-navigator-q-22",
+      "mod-roadmap-navigator-q-23",
+      "mod-roadmap-navigator-q-24"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60

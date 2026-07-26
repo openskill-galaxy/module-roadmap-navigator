@@ -5,11 +5,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002492",
-      "rm-q-003473",
-      "rm-q-000489"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -29,11 +25,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000877",
-      "rm-q-002470",
-      "rm-q-000712"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -53,11 +45,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001999",
-      "rm-q-000802",
-      "rm-q-003405"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -77,11 +65,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000199",
-      "rm-q-001577",
-      "rm-q-003477"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -101,11 +85,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001636",
-      "rm-q-000300",
-      "rm-q-001065"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -125,11 +105,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-003202",
-      "rm-q-001617",
-      "rm-q-001558"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -149,11 +125,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001726",
-      "rm-q-001757",
-      "rm-q-002000"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -173,11 +145,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-003204",
-      "rm-q-000836",
-      "rm-q-000979"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -197,11 +165,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002173",
-      "rm-q-001208",
-      "rm-q-001543"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -221,11 +185,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001456",
-      "rm-q-001651",
-      "rm-q-001861"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -245,11 +205,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002239",
-      "rm-q-002587",
-      "rm-q-000295"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -269,11 +225,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000788",
-      "rm-q-001404",
-      "rm-q-000219"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -293,11 +245,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002755",
-      "rm-q-001798",
-      "rm-q-002863"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -317,11 +265,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001676",
-      "rm-q-002872",
-      "rm-q-001169"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -341,11 +285,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000538",
-      "rm-q-000449",
-      "rm-q-003164"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -365,11 +305,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000436",
-      "rm-q-001452",
-      "rm-q-001738"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -389,11 +325,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-003053",
-      "rm-q-003081",
-      "rm-q-002212"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -413,11 +345,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000932",
-      "rm-q-003005",
-      "rm-q-000262"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -437,11 +365,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000940",
-      "rm-q-003269",
-      "rm-q-001239"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -461,11 +385,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001533",
-      "rm-q-002242",
-      "rm-q-001097"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -485,11 +405,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002033",
-      "rm-q-001054",
-      "rm-q-001838"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -509,11 +425,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002605",
-      "rm-q-001983",
-      "rm-q-001430"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -533,11 +445,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-003274",
-      "rm-q-000120",
-      "rm-q-000008"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -557,11 +465,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001987",
-      "rm-q-000983",
-      "rm-q-001983"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -581,11 +485,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002251",
-      "rm-q-003327",
-      "rm-q-000653"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -605,11 +505,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002843",
-      "rm-q-002904",
-      "rm-q-000180"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -629,11 +525,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001408",
-      "rm-q-002870",
-      "rm-q-001918"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -653,11 +545,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000116",
-      "rm-q-002350",
-      "rm-q-001521"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -677,11 +565,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001250",
-      "rm-q-003486",
-      "rm-q-001429"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -701,11 +585,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000385",
-      "rm-q-002668",
-      "rm-q-002342"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -725,11 +605,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001583",
-      "rm-q-002080",
-      "rm-q-000078"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -749,11 +625,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002099",
-      "rm-q-000580",
-      "rm-q-001077"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -773,11 +645,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001600",
-      "rm-q-002553",
-      "rm-q-001200"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -797,11 +665,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001579",
-      "rm-q-002206",
-      "rm-q-001250"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -821,11 +685,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000537",
-      "rm-q-002343",
-      "rm-q-002710"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -845,11 +705,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000056",
-      "rm-q-001105",
-      "rm-q-001521"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -869,11 +725,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002319",
-      "rm-q-000469",
-      "rm-q-001076"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -893,11 +745,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001755",
-      "rm-q-000453",
-      "rm-q-000584"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -917,11 +765,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002172",
-      "rm-q-001798",
-      "rm-q-000838"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -941,11 +785,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002621",
-      "rm-q-002416",
-      "rm-q-000598"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -965,11 +805,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001022",
-      "rm-q-003072",
-      "rm-q-000161"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -989,11 +825,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000445",
-      "rm-q-001889",
-      "rm-q-002659"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -1013,11 +845,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002393",
-      "rm-q-002091",
-      "rm-q-002207"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -1037,11 +865,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000287",
-      "rm-q-000432",
-      "rm-q-000465"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -1061,11 +885,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000200",
-      "rm-q-001407",
-      "rm-q-002813"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -1085,11 +905,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001076",
-      "rm-q-001702",
-      "rm-q-001313"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -1109,11 +925,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001542",
-      "rm-q-000800",
-      "rm-q-003245"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -1133,11 +945,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000071",
-      "rm-q-001974",
-      "rm-q-002311"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -1157,11 +965,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002442",
-      "rm-q-002759",
-      "rm-q-001331"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -1181,11 +985,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001991",
-      "rm-q-002795",
-      "rm-q-003281"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -1205,11 +1005,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002179",
-      "rm-q-002992",
-      "rm-q-002710"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -1229,11 +1025,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002427",
-      "rm-q-001602",
-      "rm-q-002687"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -1253,11 +1045,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000992",
-      "rm-q-000388",
-      "rm-q-000642"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -1277,11 +1065,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001371",
-      "rm-q-003279",
-      "rm-q-003219"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -1301,11 +1085,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000822",
-      "rm-q-000431",
-      "rm-q-003198"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -1325,11 +1105,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002555",
-      "rm-q-001101",
-      "rm-q-001941"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -1349,11 +1125,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001617",
-      "rm-q-002882",
-      "rm-q-000154"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -1373,11 +1145,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000917",
-      "rm-q-002439",
-      "rm-q-001241"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -1397,11 +1165,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-003011",
-      "rm-q-000997",
-      "rm-q-000130"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -1421,11 +1185,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001394",
-      "rm-q-002540",
-      "rm-q-002181"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -1445,11 +1205,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-003156",
-      "rm-q-001801",
-      "rm-q-000120"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -1469,11 +1225,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001880",
-      "rm-q-002776",
-      "rm-q-002445"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -1493,11 +1245,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000550",
-      "rm-q-002656",
-      "rm-q-003495"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -1517,11 +1265,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002507",
-      "rm-q-002503",
-      "rm-q-002091"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -1541,11 +1285,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000376",
-      "rm-q-002289",
-      "rm-q-000651"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -1565,11 +1305,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-001101",
-      "rm-q-001037",
-      "rm-q-001722"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -1589,11 +1325,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000405",
-      "rm-q-000489",
-      "rm-q-002650"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -1613,11 +1345,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000589",
-      "rm-q-001028",
-      "rm-q-003008"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -1637,11 +1365,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002019",
-      "rm-q-002711",
-      "rm-q-001022"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -1661,11 +1385,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002989",
-      "rm-q-002621",
-      "rm-q-001746"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -1685,11 +1405,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000341",
-      "rm-q-001168",
-      "rm-q-000585"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -1709,11 +1425,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000531",
-      "rm-q-001683",
-      "rm-q-001627"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -1733,11 +1445,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-003466",
-      "rm-q-002603",
-      "rm-q-000896"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -1757,11 +1465,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000884",
-      "rm-q-002086",
-      "rm-q-002760"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -1781,11 +1485,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000332",
-      "rm-q-001215",
-      "rm-q-000873"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -1805,11 +1505,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-000907",
-      "rm-q-000454",
-      "rm-q-002730"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -1829,11 +1525,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002560",
-      "rm-q-001280",
-      "rm-q-002360"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -1853,11 +1545,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002997",
-      "rm-q-000225",
-      "rm-q-002669"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -1877,11 +1565,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-002276",
-      "rm-q-002924",
-      "rm-q-003194"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -1901,11 +1585,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "rm-q-003022",
-      "rm-q-002893",
-      "rm-q-000699"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -1925,11 +1605,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001028",
-      "rm-q-003308",
-      "rm-q-000466"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -1949,11 +1625,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002051",
-      "rm-q-002789",
-      "rm-q-000861"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -1973,11 +1645,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002609",
-      "rm-q-000964",
-      "rm-q-002756"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -1997,11 +1665,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002108",
-      "rm-q-003149",
-      "rm-q-002964"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -2021,11 +1685,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000722",
-      "rm-q-003487",
-      "rm-q-003455"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -2045,11 +1705,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001442",
-      "rm-q-000499",
-      "rm-q-001367"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -2069,11 +1725,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002355",
-      "rm-q-003230",
-      "rm-q-001619"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -2093,11 +1745,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002323",
-      "rm-q-003468",
-      "rm-q-002716"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -2117,11 +1765,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002377",
-      "rm-q-000711",
-      "rm-q-003147"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -2141,11 +1785,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000387",
-      "rm-q-000805",
-      "rm-q-000109"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -2165,11 +1805,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001118",
-      "rm-q-001331",
-      "rm-q-001874"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -2189,11 +1825,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003339",
-      "rm-q-002780",
-      "rm-q-002684"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -2213,11 +1845,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002945",
-      "rm-q-002724",
-      "rm-q-000134"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -2237,11 +1865,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003428",
-      "rm-q-002453",
-      "rm-q-001927"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -2261,11 +1885,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000383",
-      "rm-q-000983",
-      "rm-q-002220"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -2285,11 +1905,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001733",
-      "rm-q-000306",
-      "rm-q-003099"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -2309,11 +1925,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001309",
-      "rm-q-001876",
-      "rm-q-000792"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -2333,11 +1945,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000248",
-      "rm-q-000518",
-      "rm-q-002442"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -2357,11 +1965,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000737",
-      "rm-q-000038",
-      "rm-q-001030"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -2381,11 +1985,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001283",
-      "rm-q-001231",
-      "rm-q-001192"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -2405,11 +2005,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002840",
-      "rm-q-000602",
-      "rm-q-001412"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -2429,11 +2025,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002146",
-      "rm-q-003335",
-      "rm-q-002262"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -2453,11 +2045,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003178",
-      "rm-q-000615",
-      "rm-q-002434"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -2477,11 +2065,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002646",
-      "rm-q-000574",
-      "rm-q-002832"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -2501,11 +2085,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000874",
-      "rm-q-002798",
-      "rm-q-002285"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -2525,11 +2105,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002668",
-      "rm-q-001839",
-      "rm-q-000033"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -2549,11 +2125,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002249",
-      "rm-q-000273",
-      "rm-q-001826"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -2573,11 +2145,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000821",
-      "rm-q-000620",
-      "rm-q-001957"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -2597,11 +2165,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002485",
-      "rm-q-002659",
-      "rm-q-001250"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -2621,11 +2185,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002545",
-      "rm-q-000177",
-      "rm-q-001767"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -2645,11 +2205,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001045",
-      "rm-q-002945",
-      "rm-q-003030"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -2669,11 +2225,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000386",
-      "rm-q-000333",
-      "rm-q-003058"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -2693,11 +2245,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002059",
-      "rm-q-000616",
-      "rm-q-003458"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -2717,11 +2265,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000883",
-      "rm-q-003411",
-      "rm-q-000815"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -2741,11 +2285,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002709",
-      "rm-q-003161",
-      "rm-q-002728"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -2765,11 +2305,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003415",
-      "rm-q-000486",
-      "rm-q-003220"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -2789,11 +2325,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001149",
-      "rm-q-001070",
-      "rm-q-002892"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -2813,11 +2345,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002571",
-      "rm-q-002323",
-      "rm-q-001516"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -2837,11 +2365,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000066",
-      "rm-q-002131",
-      "rm-q-000437"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -2861,11 +2385,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000745",
-      "rm-q-001495",
-      "rm-q-000007"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -2885,11 +2405,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002518",
-      "rm-q-000956",
-      "rm-q-000837"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -2909,11 +2425,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003078",
-      "rm-q-000528",
-      "rm-q-002858"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -2933,11 +2445,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002059",
-      "rm-q-000202",
-      "rm-q-000618"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -2957,11 +2465,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000250",
-      "rm-q-001556",
-      "rm-q-002093"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -2981,11 +2485,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003186",
-      "rm-q-000231",
-      "rm-q-001177"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -3005,11 +2505,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003004",
-      "rm-q-002623",
-      "rm-q-002952"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -3029,11 +2525,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002100",
-      "rm-q-000637",
-      "rm-q-002958"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -3053,11 +2545,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000851",
-      "rm-q-000816",
-      "rm-q-000507"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -3077,11 +2565,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002378",
-      "rm-q-003390",
-      "rm-q-002053"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -3101,11 +2585,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001615",
-      "rm-q-001235",
-      "rm-q-002753"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -3125,11 +2605,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001717",
-      "rm-q-001953",
-      "rm-q-000518"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -3149,11 +2625,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002208",
-      "rm-q-000844",
-      "rm-q-000558"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -3173,11 +2645,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003233",
-      "rm-q-000571",
-      "rm-q-001673"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -3197,11 +2665,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000732",
-      "rm-q-001440",
-      "rm-q-003328"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -3221,11 +2685,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003043",
-      "rm-q-000929",
-      "rm-q-001549"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -3245,11 +2705,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000947",
-      "rm-q-001160",
-      "rm-q-001865"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -3269,11 +2725,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001172",
-      "rm-q-002816",
-      "rm-q-001645"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -3293,11 +2745,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003053",
-      "rm-q-002538",
-      "rm-q-000479"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -3317,11 +2765,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002973",
-      "rm-q-003477",
-      "rm-q-002678"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -3341,11 +2785,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001709",
-      "rm-q-003128",
-      "rm-q-000022"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -3365,11 +2805,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002837",
-      "rm-q-001192",
-      "rm-q-003276"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -3389,11 +2825,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000034",
-      "rm-q-000574",
-      "rm-q-001391"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -3413,11 +2845,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002606",
-      "rm-q-002120",
-      "rm-q-002783"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -3437,11 +2865,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003452",
-      "rm-q-001305",
-      "rm-q-003496"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -3461,11 +2885,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002379",
-      "rm-q-003013",
-      "rm-q-001302"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -3485,11 +2905,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000105",
-      "rm-q-001229",
-      "rm-q-003341"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -3509,11 +2925,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003373",
-      "rm-q-000376",
-      "rm-q-000975"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -3533,11 +2945,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003155",
-      "rm-q-001077",
-      "rm-q-002389"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -3557,11 +2965,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001368",
-      "rm-q-001457",
-      "rm-q-000800"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -3581,11 +2985,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002261",
-      "rm-q-000073",
-      "rm-q-002265"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -3605,11 +3005,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001987",
-      "rm-q-000782",
-      "rm-q-001414"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -3629,11 +3025,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-003103",
-      "rm-q-000315",
-      "rm-q-000067"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -3653,11 +3045,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002862",
-      "rm-q-000780",
-      "rm-q-001163"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -3677,11 +3065,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000593",
-      "rm-q-000615",
-      "rm-q-002157"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -3701,11 +3085,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002646",
-      "rm-q-001636",
-      "rm-q-001088"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -3725,11 +3105,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-002554",
-      "rm-q-003090",
-      "rm-q-002771"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -3749,11 +3125,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001024",
-      "rm-q-002921",
-      "rm-q-000921"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -3773,11 +3145,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000054",
-      "rm-q-000307",
-      "rm-q-000271"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -3797,11 +3165,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-000208",
-      "rm-q-002782",
-      "rm-q-001486"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -3821,11 +3185,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "rm-q-001796",
-      "rm-q-001966",
-      "rm-q-001283"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -3845,11 +3205,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000989",
-      "rm-q-001728",
-      "rm-q-002572"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -3869,11 +3225,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000044",
-      "rm-q-001409",
-      "rm-q-000043"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -3893,11 +3245,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000206",
-      "rm-q-001984",
-      "rm-q-002988"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -3917,11 +3265,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000954",
-      "rm-q-001935",
-      "rm-q-002895"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -3941,11 +3285,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003360",
-      "rm-q-000592",
-      "rm-q-001376"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -3965,11 +3305,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002162",
-      "rm-q-002721",
-      "rm-q-000909"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -3989,11 +3325,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000787",
-      "rm-q-002931",
-      "rm-q-000223"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -4013,11 +3345,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002451",
-      "rm-q-002394",
-      "rm-q-001423"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -4037,11 +3365,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002646",
-      "rm-q-001244",
-      "rm-q-002109"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -4061,11 +3385,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001624",
-      "rm-q-002529",
-      "rm-q-002083"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -4085,11 +3405,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000877",
-      "rm-q-000287",
-      "rm-q-001289"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -4109,11 +3425,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001598",
-      "rm-q-002195",
-      "rm-q-002963"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -4133,11 +3445,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000393",
-      "rm-q-001944",
-      "rm-q-002013"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -4157,11 +3465,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001253",
-      "rm-q-002012",
-      "rm-q-002654"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -4181,11 +3485,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001369",
-      "rm-q-000972",
-      "rm-q-002663"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -4205,11 +3505,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001879",
-      "rm-q-002878",
-      "rm-q-001725"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -4229,11 +3525,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002805",
-      "rm-q-001493",
-      "rm-q-001766"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -4253,11 +3545,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000359",
-      "rm-q-000976",
-      "rm-q-003320"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -4277,11 +3565,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000335",
-      "rm-q-002002",
-      "rm-q-000459"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -4301,11 +3585,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003268",
-      "rm-q-002959",
-      "rm-q-001997"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -4325,11 +3605,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000156",
-      "rm-q-002254",
-      "rm-q-000902"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -4349,11 +3625,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000932",
-      "rm-q-000110",
-      "rm-q-000639"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -4373,11 +3645,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002125",
-      "rm-q-002556",
-      "rm-q-002290"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -4397,11 +3665,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002062",
-      "rm-q-000225",
-      "rm-q-002548"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -4421,11 +3685,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002165",
-      "rm-q-000153",
-      "rm-q-002323"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -4445,11 +3705,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001403",
-      "rm-q-002205",
-      "rm-q-002174"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -4469,11 +3725,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000570",
-      "rm-q-003039",
-      "rm-q-001888"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -4493,11 +3745,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000869",
-      "rm-q-002233",
-      "rm-q-000311"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -4517,11 +3765,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002827",
-      "rm-q-000450",
-      "rm-q-003418"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -4541,11 +3785,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002107",
-      "rm-q-000486",
-      "rm-q-001703"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -4565,11 +3805,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001958",
-      "rm-q-002102",
-      "rm-q-000423"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -4589,11 +3825,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002327",
-      "rm-q-001717",
-      "rm-q-000905"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -4613,11 +3845,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001302",
-      "rm-q-000975",
-      "rm-q-000730"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -4637,11 +3865,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003053",
-      "rm-q-001263",
-      "rm-q-001140"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -4661,11 +3885,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002584",
-      "rm-q-003002",
-      "rm-q-002376"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -4685,11 +3905,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001645",
-      "rm-q-001923",
-      "rm-q-001423"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -4709,11 +3925,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003369",
-      "rm-q-002811",
-      "rm-q-001970"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -4733,11 +3945,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002703",
-      "rm-q-002884",
-      "rm-q-003040"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -4757,11 +3965,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000957",
-      "rm-q-000944",
-      "rm-q-002964"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -4781,11 +3985,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002636",
-      "rm-q-003259",
-      "rm-q-003400"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -4805,11 +4005,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001666",
-      "rm-q-001919",
-      "rm-q-000904"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -4829,11 +4025,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000989",
-      "rm-q-003294",
-      "rm-q-000094"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -4853,11 +4045,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002796",
-      "rm-q-001496",
-      "rm-q-000660"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -4877,11 +4065,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000582",
-      "rm-q-002975",
-      "rm-q-001205"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -4901,11 +4085,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001010",
-      "rm-q-002352",
-      "rm-q-003226"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -4925,11 +4105,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001379",
-      "rm-q-000186",
-      "rm-q-001626"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -4949,11 +4125,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002602",
-      "rm-q-000149",
-      "rm-q-002213"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -4973,11 +4145,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000748",
-      "rm-q-000819",
-      "rm-q-000593"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -4997,11 +4165,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002512",
-      "rm-q-003143",
-      "rm-q-002674"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -5021,11 +4185,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002952",
-      "rm-q-002101",
-      "rm-q-002850"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -5045,11 +4205,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002591",
-      "rm-q-002233",
-      "rm-q-001544"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -5069,11 +4225,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000888",
-      "rm-q-003492",
-      "rm-q-000978"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -5093,11 +4245,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003135",
-      "rm-q-003482",
-      "rm-q-000104"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -5117,11 +4265,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000707",
-      "rm-q-001069",
-      "rm-q-001776"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -5141,11 +4285,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001930",
-      "rm-q-001510",
-      "rm-q-001866"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -5165,11 +4305,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000925",
-      "rm-q-001788",
-      "rm-q-002653"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -5189,11 +4325,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001245",
-      "rm-q-002105",
-      "rm-q-000683"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -5213,11 +4345,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000690",
-      "rm-q-002035",
-      "rm-q-000989"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -5237,11 +4365,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000446",
-      "rm-q-001923",
-      "rm-q-003179"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -5261,11 +4385,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001450",
-      "rm-q-001439",
-      "rm-q-001022"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -5285,11 +4405,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002874",
-      "rm-q-002037",
-      "rm-q-001989"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -5309,11 +4425,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000914",
-      "rm-q-002084",
-      "rm-q-003397"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -5333,11 +4445,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001242",
-      "rm-q-002465",
-      "rm-q-001365"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -5357,11 +4465,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003495",
-      "rm-q-000425",
-      "rm-q-000131"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -5381,11 +4485,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001719",
-      "rm-q-002251",
-      "rm-q-000808"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -5405,11 +4505,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001034",
-      "rm-q-000543",
-      "rm-q-001054"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -5429,11 +4525,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001313",
-      "rm-q-001298",
-      "rm-q-001999"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -5453,11 +4545,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001542",
-      "rm-q-002289",
-      "rm-q-001904"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -5477,11 +4565,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003298",
-      "rm-q-000430",
-      "rm-q-002981"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -5501,11 +4585,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000374",
-      "rm-q-000371",
-      "rm-q-003437"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -5525,11 +4605,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000622",
-      "rm-q-002576",
-      "rm-q-001070"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -5549,11 +4625,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002635",
-      "rm-q-002328",
-      "rm-q-002505"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -5573,11 +4645,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003052",
-      "rm-q-002961",
-      "rm-q-002584"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -5597,11 +4665,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000484",
-      "rm-q-001035",
-      "rm-q-001200"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -5621,11 +4685,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000974",
-      "rm-q-002479",
-      "rm-q-001983"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -5645,11 +4705,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000094",
-      "rm-q-002288",
-      "rm-q-001031"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -5669,11 +4725,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000620",
-      "rm-q-000333",
-      "rm-q-003075"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -5693,11 +4745,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000860",
-      "rm-q-002273",
-      "rm-q-003375"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -5717,11 +4765,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000691",
-      "rm-q-000478",
-      "rm-q-000897"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -5741,11 +4785,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002294",
-      "rm-q-002579",
-      "rm-q-000988"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -5765,11 +4805,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003415",
-      "rm-q-003254",
-      "rm-q-000805"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -5789,11 +4825,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001329",
-      "rm-q-000150",
-      "rm-q-002000"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -5813,11 +4845,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003034",
-      "rm-q-002315",
-      "rm-q-001171"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
@@ -5837,11 +4865,7 @@
     "description": "通过Java后端掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000980",
-      "rm-q-000896",
-      "rm-q-001075"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java后端"
     ],
@@ -5861,11 +4885,7 @@
     "description": "通过Go后端掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001713",
-      "rm-q-000371",
-      "rm-q-000322"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go后端"
     ],
@@ -5885,11 +4905,7 @@
     "description": "通过全栈掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002690",
-      "rm-q-000625",
-      "rm-q-001249"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全栈"
     ],
@@ -5909,11 +4925,7 @@
     "description": "通过数据工程掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003288",
-      "rm-q-001687",
-      "rm-q-000003"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据工程"
     ],
@@ -5933,11 +4945,7 @@
     "description": "通过AI产品经理掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002012",
-      "rm-q-003089",
-      "rm-q-000687"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品经理"
     ],
@@ -5957,11 +4965,7 @@
     "description": "通过RAG应用掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-001794",
-      "rm-q-002683",
-      "rm-q-002621"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RAG应用"
     ],
@@ -5981,11 +4985,7 @@
     "description": "通过云原生掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000635",
-      "rm-q-001956",
-      "rm-q-001586"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "云原生"
     ],
@@ -6005,11 +5005,7 @@
     "description": "通过安全入门掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000032",
-      "rm-q-003467",
-      "rm-q-002963"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "安全入门"
     ],
@@ -6029,11 +5025,7 @@
     "description": "通过考研基础掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-000053",
-      "rm-q-002300",
-      "rm-q-003413"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础"
     ],
@@ -6053,11 +5045,7 @@
     "description": "通过求职冲刺掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003433",
-      "rm-q-000232",
-      "rm-q-002488"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职冲刺"
     ],
@@ -6077,11 +5065,7 @@
     "description": "通过作品集掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-003058",
-      "rm-q-002313",
-      "rm-q-003460"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "作品集"
     ],
@@ -6101,11 +5085,7 @@
     "description": "通过60模块总路线掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002636",
-      "rm-q-002123",
-      "rm-q-002599"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "60模块总路线"
     ],
@@ -6125,11 +5105,7 @@
     "description": "通过零基础学编程掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002589",
-      "rm-q-002083",
-      "rm-q-001319"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "零基础学编程"
     ],
@@ -6149,11 +5125,7 @@
     "description": "通过C到嵌入式掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002571",
-      "rm-q-002000",
-      "rm-q-003082"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "C到嵌入式"
     ],
@@ -6173,11 +5145,7 @@
     "description": "通过Python到数据分析掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002882",
-      "rm-q-002631",
-      "rm-q-000681"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到数据分析"
     ],
@@ -6197,11 +5165,7 @@
     "description": "通过Python到AI掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002738",
-      "rm-q-002022",
-      "rm-q-001920"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python到AI"
     ],
@@ -6221,11 +5185,7 @@
     "description": "通过前端入门到React掌握路线规划",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "rm-q-002941",
-      "rm-q-001053",
-      "rm-q-000345"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端入门到React"
     ],
