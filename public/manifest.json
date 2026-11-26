@@ -1,6 +1,7 @@
 {
-  "short_name": "OpenSkill Module",
-  "name": "OpenSkill Galaxy — 学习自测模块",
+  "short_name": "学习路线规划与能力地图",
+  "name": "OpenSkill Galaxy — 学习路线规划与能力地图",
+  "description": "面向全平台学习者的学习路线能力地图知识树模块依赖岗位方向阶段目标项目作品能力评估与个性化学习路径设计训练。",
   "icons": [
     {
       "src": "favicon.svg",
@@ -8,9 +9,10 @@
       "sizes": "any"
     }
   ],
-  "start_url": ".",
-  "background_color": "#fbfbfd",
-  "theme_color": "#4f46e5",
+  "start_url": "/module-roadmap-navigator/",
+  "scope": "/module-roadmap-navigator/",
+  "background_color": "#f4f5fa",
+  "theme_color": "#3039c9",
   "display": "standalone",
   "orientation": "portrait"
 }

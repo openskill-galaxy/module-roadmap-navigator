@@ -1,71 +1,66 @@
 [
   {
     "id": "mod-roadmap-navigator-c-1",
-    "title": "学习路线规划与能力地图 架构原理与初始化",
+    "title": "从岗位要求定位学习目标 / 评估现有能力与差距",
     "slug": "course-1",
-    "summary": "深度探索 学习路线规划与能力地图 的设计理念、运行架构以及初始化配置引导。",
+    "summary": "例题研习覆盖岗位方向、职业规划、JD分析、能力评估、德雷福斯模型、差距分析。",
     "order": 1,
     "difficulty": "easy",
-    "estimatedHours": 47,
+    "estimatedHours": 0.4,
     "lessons": [
       "mod-roadmap-navigator-l-1",
       "mod-roadmap-navigator-l-2"
     ],
     "tags": [
-      "学习路线",
-      "能力地图",
-      "技能树",
-      "路线规划",
       "岗位方向",
-      "模块导航",
-      "学习路径",
-      "能力评估"
+      "职业规划",
+      "JD分析",
+      "能力评估",
+      "德雷福斯模型",
+      "差距分析"
     ]
   },
   {
     "id": "mod-roadmap-navigator-c-2",
-    "title": "学习路线规划与能力地图 核心机制与开发实战",
+    "title": "把技能依赖排成学习顺序 / 设计可检查的里程碑",
     "slug": "course-2",
-    "summary": "掌握 学习路线规划与能力地图 的核心组件、API 接口调用以及本地开发调试。",
+    "summary": "例题研习覆盖技能树、知识依赖、拓扑排序、阶段目标、里程碑。",
     "order": 2,
     "difficulty": "easy",
-    "estimatedHours": 47,
+    "estimatedHours": 0.4,
     "lessons": [
       "mod-roadmap-navigator-l-3",
       "mod-roadmap-navigator-l-4"
     ],
     "tags": [
-      "学习路线",
-      "能力地图",
       "技能树",
-      "路线规划",
-      "岗位方向",
-      "模块导航",
-      "学习路径",
-      "能力评估"
+      "知识依赖",
+      "拓扑排序",
+      "阶段目标",
+      "里程碑"
     ]
   },
   {
     "id": "mod-roadmap-navigator-c-3",
-    "title": "学习路线规划与能力地图 高级优化与生产部署",
+    "title": "用项目形成能力证据 / 根据复盘调整学习路线",
     "slug": "course-3",
-    "summary": "学习如何进行系统性能监控调优、高可用集群部署与数据存储。",
+    "summary": "例题研习覆盖项目作品、求职准备、T型人才、能力结构、复盘检视、路线执行、路线维护、技术趋势。",
     "order": 3,
     "difficulty": "easy",
-    "estimatedHours": 47,
+    "estimatedHours": 0.4,
     "lessons": [
       "mod-roadmap-navigator-l-5",
       "mod-roadmap-navigator-l-6"
     ],
     "tags": [
-      "学习路线",
-      "能力地图",
-      "技能树",
-      "路线规划",
-      "岗位方向",
-      "模块导航",
-      "学习路径",
-      "能力评估"
+      "项目作品",
+      "求职准备",
+      "T型人才",
+      "能力结构",
+      "复盘检视",
+      "路线执行",
+      "路线维护",
+      "技术趋势"
     ]
   }
 ]

@@ -17,7 +17,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例1"
+    "slug": "零基础学编程案例1",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-002",
@@ -37,7 +38,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例2"
+    "slug": "c到嵌入式案例2",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-003",
@@ -57,7 +59,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例3"
+    "slug": "python到数据分析案例3",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-004",
@@ -77,7 +80,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例4"
+    "slug": "python到ai案例4",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-005",
@@ -97,7 +101,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例5"
+    "slug": "前端入门到react案例5",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-006",
@@ -117,7 +122,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例6"
+    "slug": "java后端案例6",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-007",
@@ -137,7 +143,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例7"
+    "slug": "go后端案例7",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-008",
@@ -157,7 +164,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例8"
+    "slug": "全栈案例8",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-009",
@@ -177,7 +185,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例9"
+    "slug": "数据工程案例9",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-010",
@@ -197,7 +206,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例10"
+    "slug": "ai产品经理案例10",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-011",
@@ -217,7 +227,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例11"
+    "slug": "rag应用案例11",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-012",
@@ -237,7 +248,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例12"
+    "slug": "云原生案例12",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-013",
@@ -257,7 +269,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例13"
+    "slug": "安全入门案例13",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-014",
@@ -277,7 +290,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例14"
+    "slug": "考研基础案例14",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-015",
@@ -297,7 +311,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例15"
+    "slug": "求职冲刺案例15",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-016",
@@ -317,7 +332,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例16"
+    "slug": "作品集案例16",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-017",
@@ -337,7 +353,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例17"
+    "slug": "60模块总路线案例17",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-018",
@@ -357,7 +374,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例18"
+    "slug": "零基础学编程案例18",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-019",
@@ -377,7 +395,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例19"
+    "slug": "c到嵌入式案例19",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-020",
@@ -397,7 +416,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例20"
+    "slug": "python到数据分析案例20",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-021",
@@ -417,7 +437,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例21"
+    "slug": "python到ai案例21",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-022",
@@ -437,7 +458,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例22"
+    "slug": "前端入门到react案例22",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-023",
@@ -457,7 +479,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例23"
+    "slug": "java后端案例23",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-024",
@@ -477,7 +500,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例24"
+    "slug": "go后端案例24",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-025",
@@ -497,7 +521,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例25"
+    "slug": "全栈案例25",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-026",
@@ -517,7 +542,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例26"
+    "slug": "数据工程案例26",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-027",
@@ -537,7 +563,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例27"
+    "slug": "ai产品经理案例27",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-028",
@@ -557,7 +584,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例28"
+    "slug": "rag应用案例28",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-029",
@@ -577,7 +605,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例29"
+    "slug": "云原生案例29",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-030",
@@ -597,7 +626,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例30"
+    "slug": "安全入门案例30",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-031",
@@ -617,7 +647,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例31"
+    "slug": "考研基础案例31",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-032",
@@ -637,7 +668,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例32"
+    "slug": "求职冲刺案例32",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-033",
@@ -657,7 +689,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例33"
+    "slug": "作品集案例33",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-034",
@@ -677,7 +710,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例34"
+    "slug": "60模块总路线案例34",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-035",
@@ -697,7 +731,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例35"
+    "slug": "零基础学编程案例35",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-036",
@@ -717,7 +752,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例36"
+    "slug": "c到嵌入式案例36",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-037",
@@ -737,7 +773,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例37"
+    "slug": "python到数据分析案例37",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-038",
@@ -757,7 +794,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例38"
+    "slug": "python到ai案例38",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-039",
@@ -777,7 +815,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例39"
+    "slug": "前端入门到react案例39",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-040",
@@ -797,7 +836,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例40"
+    "slug": "java后端案例40",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-041",
@@ -817,7 +857,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例41"
+    "slug": "go后端案例41",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-042",
@@ -837,7 +878,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例42"
+    "slug": "全栈案例42",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-043",
@@ -857,7 +899,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例43"
+    "slug": "数据工程案例43",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-044",
@@ -877,7 +920,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例44"
+    "slug": "ai产品经理案例44",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-045",
@@ -897,7 +941,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例45"
+    "slug": "rag应用案例45",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-046",
@@ -917,7 +962,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例46"
+    "slug": "云原生案例46",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-047",
@@ -937,7 +983,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例47"
+    "slug": "安全入门案例47",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-048",
@@ -957,7 +1004,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例48"
+    "slug": "考研基础案例48",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-049",
@@ -977,7 +1025,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例49"
+    "slug": "求职冲刺案例49",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-050",
@@ -997,7 +1046,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例50"
+    "slug": "作品集案例50",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-051",
@@ -1017,7 +1067,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例51"
+    "slug": "60模块总路线案例51",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-052",
@@ -1037,7 +1088,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例52"
+    "slug": "零基础学编程案例52",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-053",
@@ -1057,7 +1109,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例53"
+    "slug": "c到嵌入式案例53",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-054",
@@ -1077,7 +1130,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例54"
+    "slug": "python到数据分析案例54",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-055",
@@ -1097,7 +1151,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例55"
+    "slug": "python到ai案例55",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-056",
@@ -1117,7 +1172,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例56"
+    "slug": "前端入门到react案例56",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-057",
@@ -1137,7 +1193,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例57"
+    "slug": "java后端案例57",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-058",
@@ -1157,7 +1214,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例58"
+    "slug": "go后端案例58",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-059",
@@ -1177,7 +1235,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例59"
+    "slug": "全栈案例59",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-060",
@@ -1197,7 +1256,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例60"
+    "slug": "数据工程案例60",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-061",
@@ -1217,7 +1277,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例61"
+    "slug": "ai产品经理案例61",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-062",
@@ -1237,7 +1298,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例62"
+    "slug": "rag应用案例62",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-063",
@@ -1257,7 +1319,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例63"
+    "slug": "云原生案例63",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-064",
@@ -1277,7 +1340,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例64"
+    "slug": "安全入门案例64",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-065",
@@ -1297,7 +1361,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例65"
+    "slug": "考研基础案例65",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-066",
@@ -1317,7 +1382,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例66"
+    "slug": "求职冲刺案例66",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-067",
@@ -1337,7 +1403,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例67"
+    "slug": "作品集案例67",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-068",
@@ -1357,7 +1424,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例68"
+    "slug": "60模块总路线案例68",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-069",
@@ -1377,7 +1445,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例69"
+    "slug": "零基础学编程案例69",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-070",
@@ -1397,7 +1466,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例70"
+    "slug": "c到嵌入式案例70",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-071",
@@ -1417,7 +1487,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例71"
+    "slug": "python到数据分析案例71",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-072",
@@ -1437,7 +1508,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例72"
+    "slug": "python到ai案例72",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-073",
@@ -1457,7 +1529,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例73"
+    "slug": "前端入门到react案例73",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-074",
@@ -1477,7 +1550,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例74"
+    "slug": "java后端案例74",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-075",
@@ -1497,7 +1571,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例75"
+    "slug": "go后端案例75",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-076",
@@ -1517,7 +1592,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例76"
+    "slug": "全栈案例76",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-077",
@@ -1537,7 +1613,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例77"
+    "slug": "数据工程案例77",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-078",
@@ -1557,7 +1634,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例78"
+    "slug": "ai产品经理案例78",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-079",
@@ -1577,7 +1655,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例79"
+    "slug": "rag应用案例79",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-080",
@@ -1597,7 +1676,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例80"
+    "slug": "云原生案例80",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-081",
@@ -1617,7 +1697,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例81"
+    "slug": "安全入门案例81",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-082",
@@ -1637,7 +1718,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例82"
+    "slug": "考研基础案例82",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-083",
@@ -1657,7 +1739,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例83"
+    "slug": "求职冲刺案例83",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-084",
@@ -1677,7 +1760,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例84"
+    "slug": "作品集案例84",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-085",
@@ -1697,7 +1781,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例85"
+    "slug": "60模块总路线案例85",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-086",
@@ -1717,7 +1802,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例86"
+    "slug": "零基础学编程案例86",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-087",
@@ -1737,7 +1823,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例87"
+    "slug": "c到嵌入式案例87",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-088",
@@ -1757,7 +1844,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例88"
+    "slug": "python到数据分析案例88",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-089",
@@ -1777,7 +1865,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例89"
+    "slug": "python到ai案例89",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-090",
@@ -1797,7 +1886,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例90"
+    "slug": "前端入门到react案例90",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-091",
@@ -1817,7 +1907,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例91"
+    "slug": "java后端案例91",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-092",
@@ -1837,7 +1928,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例92"
+    "slug": "go后端案例92",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-093",
@@ -1857,7 +1949,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例93"
+    "slug": "全栈案例93",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-094",
@@ -1877,7 +1970,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例94"
+    "slug": "数据工程案例94",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-095",
@@ -1897,7 +1991,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例95"
+    "slug": "ai产品经理案例95",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-096",
@@ -1917,7 +2012,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例96"
+    "slug": "rag应用案例96",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-097",
@@ -1937,7 +2033,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例97"
+    "slug": "云原生案例97",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-098",
@@ -1957,7 +2054,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例98"
+    "slug": "安全入门案例98",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-099",
@@ -1977,7 +2075,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例99"
+    "slug": "考研基础案例99",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-100",
@@ -1997,7 +2096,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例100"
+    "slug": "求职冲刺案例100",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-101",
@@ -2017,7 +2117,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例101"
+    "slug": "作品集案例101",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-102",
@@ -2037,7 +2138,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例102"
+    "slug": "60模块总路线案例102",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-103",
@@ -2057,7 +2159,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例103"
+    "slug": "零基础学编程案例103",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-104",
@@ -2077,7 +2180,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例104"
+    "slug": "c到嵌入式案例104",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-105",
@@ -2097,7 +2201,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例105"
+    "slug": "python到数据分析案例105",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-106",
@@ -2117,7 +2222,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例106"
+    "slug": "python到ai案例106",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-107",
@@ -2137,7 +2243,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例107"
+    "slug": "前端入门到react案例107",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-108",
@@ -2157,7 +2264,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例108"
+    "slug": "java后端案例108",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-109",
@@ -2177,7 +2285,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例109"
+    "slug": "go后端案例109",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-110",
@@ -2197,7 +2306,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例110"
+    "slug": "全栈案例110",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-111",
@@ -2217,7 +2327,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例111"
+    "slug": "数据工程案例111",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-112",
@@ -2237,7 +2348,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例112"
+    "slug": "ai产品经理案例112",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-113",
@@ -2257,7 +2369,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例113"
+    "slug": "rag应用案例113",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-114",
@@ -2277,7 +2390,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例114"
+    "slug": "云原生案例114",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-115",
@@ -2297,7 +2411,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例115"
+    "slug": "安全入门案例115",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-116",
@@ -2317,7 +2432,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例116"
+    "slug": "考研基础案例116",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-117",
@@ -2337,7 +2453,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例117"
+    "slug": "求职冲刺案例117",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-118",
@@ -2357,7 +2474,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例118"
+    "slug": "作品集案例118",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-119",
@@ -2377,7 +2495,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例119"
+    "slug": "60模块总路线案例119",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-120",
@@ -2397,7 +2516,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例120"
+    "slug": "零基础学编程案例120",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-121",
@@ -2417,7 +2537,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例121"
+    "slug": "c到嵌入式案例121",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-122",
@@ -2437,7 +2558,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例122"
+    "slug": "python到数据分析案例122",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-123",
@@ -2457,7 +2579,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例123"
+    "slug": "python到ai案例123",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-124",
@@ -2477,7 +2600,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例124"
+    "slug": "前端入门到react案例124",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-125",
@@ -2497,7 +2621,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例125"
+    "slug": "java后端案例125",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-126",
@@ -2517,7 +2642,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例126"
+    "slug": "go后端案例126",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-127",
@@ -2537,7 +2663,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例127"
+    "slug": "全栈案例127",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-128",
@@ -2557,7 +2684,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例128"
+    "slug": "数据工程案例128",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-129",
@@ -2577,7 +2705,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例129"
+    "slug": "ai产品经理案例129",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-130",
@@ -2597,7 +2726,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例130"
+    "slug": "rag应用案例130",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-131",
@@ -2617,7 +2747,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例131"
+    "slug": "云原生案例131",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-132",
@@ -2637,7 +2768,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例132"
+    "slug": "安全入门案例132",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-133",
@@ -2657,7 +2789,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例133"
+    "slug": "考研基础案例133",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-134",
@@ -2677,7 +2810,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例134"
+    "slug": "求职冲刺案例134",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-135",
@@ -2697,7 +2831,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例135"
+    "slug": "作品集案例135",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-136",
@@ -2717,7 +2852,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例136"
+    "slug": "60模块总路线案例136",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-137",
@@ -2737,7 +2873,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例137"
+    "slug": "零基础学编程案例137",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-138",
@@ -2757,7 +2894,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例138"
+    "slug": "c到嵌入式案例138",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-139",
@@ -2777,7 +2915,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例139"
+    "slug": "python到数据分析案例139",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-140",
@@ -2797,7 +2936,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例140"
+    "slug": "python到ai案例140",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-141",
@@ -2817,7 +2957,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例141"
+    "slug": "前端入门到react案例141",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-142",
@@ -2837,7 +2978,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例142"
+    "slug": "java后端案例142",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-143",
@@ -2857,7 +2999,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例143"
+    "slug": "go后端案例143",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-144",
@@ -2877,7 +3020,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例144"
+    "slug": "全栈案例144",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-145",
@@ -2897,7 +3041,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例145"
+    "slug": "数据工程案例145",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-146",
@@ -2917,7 +3062,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例146"
+    "slug": "ai产品经理案例146",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-147",
@@ -2937,7 +3083,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例147"
+    "slug": "rag应用案例147",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-148",
@@ -2957,7 +3104,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例148"
+    "slug": "云原生案例148",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-149",
@@ -2977,7 +3125,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例149"
+    "slug": "安全入门案例149",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-150",
@@ -2997,7 +3146,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例150"
+    "slug": "考研基础案例150",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-151",
@@ -3017,7 +3167,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例151"
+    "slug": "求职冲刺案例151",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-152",
@@ -3037,7 +3188,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例152"
+    "slug": "作品集案例152",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-153",
@@ -3057,7 +3209,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例153"
+    "slug": "60模块总路线案例153",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-154",
@@ -3077,7 +3230,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例154"
+    "slug": "零基础学编程案例154",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-155",
@@ -3097,7 +3251,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例155"
+    "slug": "c到嵌入式案例155",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-156",
@@ -3117,7 +3272,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例156"
+    "slug": "python到数据分析案例156",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-157",
@@ -3137,7 +3293,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例157"
+    "slug": "python到ai案例157",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-158",
@@ -3157,7 +3314,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例158"
+    "slug": "前端入门到react案例158",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-159",
@@ -3177,7 +3335,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例159"
+    "slug": "java后端案例159",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-160",
@@ -3197,7 +3356,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例160"
+    "slug": "go后端案例160",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-161",
@@ -3217,7 +3377,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例161"
+    "slug": "全栈案例161",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-162",
@@ -3237,7 +3398,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例162"
+    "slug": "数据工程案例162",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-163",
@@ -3257,7 +3419,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例163"
+    "slug": "ai产品经理案例163",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-164",
@@ -3277,7 +3440,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例164"
+    "slug": "rag应用案例164",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-165",
@@ -3297,7 +3461,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例165"
+    "slug": "云原生案例165",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-166",
@@ -3317,7 +3482,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例166"
+    "slug": "安全入门案例166",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-167",
@@ -3337,7 +3503,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例167"
+    "slug": "考研基础案例167",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-168",
@@ -3357,7 +3524,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例168"
+    "slug": "求职冲刺案例168",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-169",
@@ -3377,7 +3545,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例169"
+    "slug": "作品集案例169",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-170",
@@ -3397,7 +3566,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例170"
+    "slug": "60模块总路线案例170",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-171",
@@ -3417,7 +3587,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例171"
+    "slug": "零基础学编程案例171",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-172",
@@ -3437,7 +3608,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例172"
+    "slug": "c到嵌入式案例172",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-173",
@@ -3457,7 +3629,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例173"
+    "slug": "python到数据分析案例173",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-174",
@@ -3477,7 +3650,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例174"
+    "slug": "python到ai案例174",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-175",
@@ -3497,7 +3671,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例175"
+    "slug": "前端入门到react案例175",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-176",
@@ -3517,7 +3692,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例176"
+    "slug": "java后端案例176",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-177",
@@ -3537,7 +3713,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例177"
+    "slug": "go后端案例177",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-178",
@@ -3557,7 +3734,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例178"
+    "slug": "全栈案例178",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-179",
@@ -3577,7 +3755,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例179"
+    "slug": "数据工程案例179",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-180",
@@ -3597,7 +3776,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例180"
+    "slug": "ai产品经理案例180",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-181",
@@ -3617,7 +3797,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例181"
+    "slug": "rag应用案例181",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-182",
@@ -3637,7 +3818,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例182"
+    "slug": "云原生案例182",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-183",
@@ -3657,7 +3839,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例183"
+    "slug": "安全入门案例183",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-184",
@@ -3677,7 +3860,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例184"
+    "slug": "考研基础案例184",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-185",
@@ -3697,7 +3881,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例185"
+    "slug": "求职冲刺案例185",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-186",
@@ -3717,7 +3902,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例186"
+    "slug": "作品集案例186",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-187",
@@ -3737,7 +3923,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例187"
+    "slug": "60模块总路线案例187",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-188",
@@ -3757,7 +3944,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例188"
+    "slug": "零基础学编程案例188",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-189",
@@ -3777,7 +3965,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例189"
+    "slug": "c到嵌入式案例189",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-190",
@@ -3797,7 +3986,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例190"
+    "slug": "python到数据分析案例190",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-191",
@@ -3817,7 +4007,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例191"
+    "slug": "python到ai案例191",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-192",
@@ -3837,7 +4028,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例192"
+    "slug": "前端入门到react案例192",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-193",
@@ -3857,7 +4049,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例193"
+    "slug": "java后端案例193",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-194",
@@ -3877,7 +4070,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例194"
+    "slug": "go后端案例194",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-195",
@@ -3897,7 +4091,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例195"
+    "slug": "全栈案例195",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-196",
@@ -3917,7 +4112,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例196"
+    "slug": "数据工程案例196",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-197",
@@ -3937,7 +4133,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例197"
+    "slug": "ai产品经理案例197",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-198",
@@ -3957,7 +4154,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例198"
+    "slug": "rag应用案例198",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-199",
@@ -3977,7 +4175,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例199"
+    "slug": "云原生案例199",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-200",
@@ -3997,7 +4196,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例200"
+    "slug": "安全入门案例200",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-201",
@@ -4017,7 +4217,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例201"
+    "slug": "考研基础案例201",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-202",
@@ -4037,7 +4238,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例202"
+    "slug": "求职冲刺案例202",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-203",
@@ -4057,7 +4259,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例203"
+    "slug": "作品集案例203",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-204",
@@ -4077,7 +4280,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例204"
+    "slug": "60模块总路线案例204",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-205",
@@ -4097,7 +4301,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例205"
+    "slug": "零基础学编程案例205",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-206",
@@ -4117,7 +4322,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例206"
+    "slug": "c到嵌入式案例206",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-207",
@@ -4137,7 +4343,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例207"
+    "slug": "python到数据分析案例207",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-208",
@@ -4157,7 +4364,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例208"
+    "slug": "python到ai案例208",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-209",
@@ -4177,7 +4385,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例209"
+    "slug": "前端入门到react案例209",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-210",
@@ -4197,7 +4406,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例210"
+    "slug": "java后端案例210",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-211",
@@ -4217,7 +4427,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例211"
+    "slug": "go后端案例211",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-212",
@@ -4237,7 +4448,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例212"
+    "slug": "全栈案例212",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-213",
@@ -4257,7 +4469,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例213"
+    "slug": "数据工程案例213",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-214",
@@ -4277,7 +4490,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例214"
+    "slug": "ai产品经理案例214",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-215",
@@ -4297,7 +4511,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例215"
+    "slug": "rag应用案例215",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-216",
@@ -4317,7 +4532,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例216"
+    "slug": "云原生案例216",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-217",
@@ -4337,7 +4553,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例217"
+    "slug": "安全入门案例217",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-218",
@@ -4357,7 +4574,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例218"
+    "slug": "考研基础案例218",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-219",
@@ -4377,7 +4595,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例219"
+    "slug": "求职冲刺案例219",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-220",
@@ -4397,7 +4616,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例220"
+    "slug": "作品集案例220",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-221",
@@ -4417,7 +4637,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例221"
+    "slug": "60模块总路线案例221",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-222",
@@ -4437,7 +4658,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例222"
+    "slug": "零基础学编程案例222",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-223",
@@ -4457,7 +4679,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例223"
+    "slug": "c到嵌入式案例223",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-224",
@@ -4477,7 +4700,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例224"
+    "slug": "python到数据分析案例224",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-225",
@@ -4497,7 +4721,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例225"
+    "slug": "python到ai案例225",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-226",
@@ -4517,7 +4742,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例226"
+    "slug": "前端入门到react案例226",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-227",
@@ -4537,7 +4763,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例227"
+    "slug": "java后端案例227",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-228",
@@ -4557,7 +4784,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例228"
+    "slug": "go后端案例228",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-229",
@@ -4577,7 +4805,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例229"
+    "slug": "全栈案例229",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-230",
@@ -4597,7 +4826,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例230"
+    "slug": "数据工程案例230",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-231",
@@ -4617,7 +4847,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例231"
+    "slug": "ai产品经理案例231",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-232",
@@ -4637,7 +4868,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例232"
+    "slug": "rag应用案例232",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-233",
@@ -4657,7 +4889,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例233"
+    "slug": "云原生案例233",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-234",
@@ -4677,7 +4910,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例234"
+    "slug": "安全入门案例234",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-235",
@@ -4697,7 +4931,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例235"
+    "slug": "考研基础案例235",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-236",
@@ -4717,7 +4952,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例236"
+    "slug": "求职冲刺案例236",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-237",
@@ -4737,7 +4973,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例237"
+    "slug": "作品集案例237",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-238",
@@ -4757,7 +4994,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例238"
+    "slug": "60模块总路线案例238",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-239",
@@ -4777,7 +5015,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例239"
+    "slug": "零基础学编程案例239",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-240",
@@ -4797,7 +5036,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例240"
+    "slug": "c到嵌入式案例240",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-241",
@@ -4817,7 +5057,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例241"
+    "slug": "python到数据分析案例241",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-242",
@@ -4837,7 +5078,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例242"
+    "slug": "python到ai案例242",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-243",
@@ -4857,7 +5099,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例243"
+    "slug": "前端入门到react案例243",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-244",
@@ -4877,7 +5120,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Java后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "java后端案例244"
+    "slug": "java后端案例244",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-245",
@@ -4897,7 +5141,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Go后端掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "go后端案例245"
+    "slug": "go后端案例245",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-246",
@@ -4917,7 +5162,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过全栈掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "全栈案例246"
+    "slug": "全栈案例246",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-247",
@@ -4937,7 +5183,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过数据工程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "数据工程案例247"
+    "slug": "数据工程案例247",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-248",
@@ -4957,7 +5204,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过AI产品经理掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ai产品经理案例248"
+    "slug": "ai产品经理案例248",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-249",
@@ -4977,7 +5225,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过RAG应用掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "rag应用案例249"
+    "slug": "rag应用案例249",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-250",
@@ -4997,7 +5246,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过云原生掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "云原生案例250"
+    "slug": "云原生案例250",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-251",
@@ -5017,7 +5267,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过安全入门掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "安全入门案例251"
+    "slug": "安全入门案例251",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-252",
@@ -5037,7 +5288,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过考研基础掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "考研基础案例252"
+    "slug": "考研基础案例252",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-253",
@@ -5057,7 +5309,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过求职冲刺掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "求职冲刺案例253"
+    "slug": "求职冲刺案例253",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-254",
@@ -5077,7 +5330,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过作品集掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "作品集案例254"
+    "slug": "作品集案例254",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-255",
@@ -5097,7 +5351,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过60模块总路线掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "60模块总路线案例255"
+    "slug": "60模块总路线案例255",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-256",
@@ -5117,7 +5372,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过零基础学编程掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "零基础学编程案例256"
+    "slug": "零基础学编程案例256",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-257",
@@ -5137,7 +5393,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过C到嵌入式掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "c到嵌入式案例257"
+    "slug": "c到嵌入式案例257",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-258",
@@ -5157,7 +5414,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到数据分析掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到数据分析案例258"
+    "slug": "python到数据分析案例258",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-259",
@@ -5177,7 +5435,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Python到AI掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "python到ai案例259"
+    "slug": "python到ai案例259",
+    "editorialStatus": "draft"
   },
   {
     "id": "rm-case-260",
@@ -5197,6 +5456,20 @@
     "backgroundMarkdown": "# 案例背景\n\n通过前端入门到React掌握路线规划",
     "tasksMarkdown": "# 实战任务\n\n1. **背景**: 分析\n2. **方案**: 设计\n3. **执行**: 实施\n4. **评估**: 检查",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "前端入门到react案例260"
+    "slug": "前端入门到react案例260",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "case-roadmap-navigator-workshop",
+    "slug": "workshop-roadmap-navigator",
+    "title": "为学习路线安排可验证的里程碑",
+    "summary": "将任务拆为三项有明确产物的里程碑，并标明依赖。",
+    "difficulty": "medium",
+    "tags": [],
+    "backgroundMarkdown": "目标是在两周内提交一个读取 CSV 并显示合计的小工具，每周可用3小时。",
+    "tasksMarkdown": "将任务拆为三项有明确产物的里程碑，并标明依赖。",
+    "referenceMarkdown": "先用2小时读取固定样例并核对行数，再用2小时汇总并通过总额断言，最后2小时展示结果并处理空文件。只有读取接口固定后，后两项的验收数据才稳定。",
+    "knowledgePoints": [],
+    "estimatedMinutes": 15
   }
 ]
